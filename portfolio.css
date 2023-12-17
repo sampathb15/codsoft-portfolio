@@ -1,0 +1,131 @@
+.bg{
+    height:;
+}
+
+
+.img{
+    height: 40px;
+    border-radius: 20px;
+}
+
+.nav-link{
+    color: rgb(124, 122, 122) !important;
+    margin-right: 10px;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav-link:hover{
+    color: rgb(14, 15, 15) !important;
+    font-size: larger!important;
+}
+.span-name{
+    color: rgb(124, 122, 122) !important;
+}
+
+.banner{
+    height: h;
+}
+
+.para{
+    font-family: cursive;
+    font-size: larger;
+}
+
+.btn1{
+    border-radius: 20px;
+    border-style: none;
+    background-color:  rgb(124, 122, 122)  ;
+    color : whitesmoke;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn1:hover{
+   
+    border:2px solid bisque;
+}
+
+.details-section{
+    
+}
+.profile-img-bg{
+  
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    text-align: center;
+    background-image: url("https://res.cloudinary.com/db5gazodn/image/upload/v1702636270/ekflldd6yngl8vswrbxt.jpg");
+    background-size: contain; 
+}
+.img-portfolio{
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    width: 75%;
+    height: ;
+    filter:drop-shadow(5px  5px 10px  rgb(12, 12, 12) )
+}
+.img-portfolio:hover{
+    filter:drop-shadow(15px  15px 30px rgb(10, 10, 10) )
+}
+
+footer{
+    background-color:  rgb(124, 122, 122);
+}
+
+.footer-head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.icons i{
+    font-size: 30px;
+    padding-left: 10%;
+}
+
+
+.skills-row{
+    background-color: rgb(124, 122, 122);
+    
+}
+.my-skills-head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.my-skills-head-span{
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.399);
+    padding-bottom: 3px;
+}
+.my-skills-icons-font{
+    font-family: Roboto;
+    font-weight: 500;
+}
+.my-skills-icons-border{
+   
+    /* border-style: solid;
+    border-width: 2px;
+    border-color :bisque; */
+    border: 1px solid rgb(248, 247, 247);
+    border-radius: 5px;
+    
+
+}
+
+.about-me-span{
+   text-decoration: underline;
+   color:rgba(241, 168, 67, 0.683);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.about-me-span2{
+    color:rgb(124, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+.mail{
+    font-family: serif;
+    color: black !important;
+}
+.my-skills-icons-border:hover{
+    box-shadow: 0px 0px 15px rgb(246, 247, 248);
+    background-color: rgba(102, 98, 98, 0.105) ;
+}
